@@ -1,0 +1,6 @@
+c:\users\erfinder\documents\visual studio 2012\Projects\ModbusSlaveTest1\bin\Debug\ModbusSlaveTest1.exe.config
+c:\users\erfinder\documents\visual studio 2012\Projects\ModbusSlaveTest1\bin\Debug\ModbusSlaveTest1.exe
+c:\users\erfinder\documents\visual studio 2012\Projects\ModbusSlaveTest1\bin\Debug\ModbusSlaveTest1.pdb
+c:\users\erfinder\documents\visual studio 2012\Projects\ModbusSlaveTest1\obj\Debug\ModbusSlaveTest1.csprojResolveAssemblyReference.cache
+c:\users\erfinder\documents\visual studio 2012\Projects\ModbusSlaveTest1\obj\Debug\ModbusSlaveTest1.exe
+c:\users\erfinder\documents\visual studio 2012\Projects\ModbusSlaveTest1\obj\Debug\ModbusSlaveTest1.pdb
